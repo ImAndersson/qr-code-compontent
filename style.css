@@ -32,7 +32,7 @@ main {
 
 .card {
   height: max-content;
-  width: 350px;
+  width: 450px;
   padding: 1.5rem;
   padding-bottom: 2.5rem;
   background: var(--color-white);
