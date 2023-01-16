@@ -32,8 +32,8 @@ main {
 
 .card {
   height: max-content;
-  width: 450px;
-  padding: 1.5rem;
+  width: 350px;
+  padding: 2rem;
   padding-bottom: 2.5rem;
   background: var(--color-white);
   border-radius: 15px;
